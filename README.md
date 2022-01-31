@@ -1,9 +1,9 @@
-# 🔥Ehtical Hacking Content and Resource URL 🔥
+#                            🔥Ehtical Hacking Content and Resource URL 🔥
 
 ### Basic Kali Linux :
 
                              Try Hack Me :
-                                                   https://tryhackme.com/module/linux-fundamentals\
+                                                   https://tryhackme.com/module/linux-fundamentals
                              Hack The Box :
                                                      https://academy.hackthebox.com/module/18
                              Youtube :
