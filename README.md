@@ -38,7 +38,8 @@
 
                                 Hack the box :
                                                          https://academy.hackthebox.com/modules
-
+                                Youtube :
+                                          https://www.youtube.com/playlist?list=PL60oESahDerr25n97ugHfJKzQ7SjSsjVH
 
 
 
@@ -53,6 +54,9 @@
  
                                Hack the box :
                                                          https://academy.hackthebox.com/modules
+                               Youtube: 
+                                               https://www.youtube.com/playlist?list=PL60oESahDerrRry6h_AIdbBXVSZQHXoxz
+                                                         
 ### Wifi Hacking :
 
                                Try Hack Me:
@@ -64,10 +68,11 @@
                                                       https://tryhackme.com/module/incident-response-and-forensics
 
                                                      
-                                 Hack the box :
+                               Hack the box :
                                                          https://academy.hackthebox.com/modules
 
-                                                      
+                              Youtube :   
+                                                  https://www.youtube.com/watch?v=mWWrroh3U0I&list=PL60oESahDerreI-L3Rjli3U1plM6Zlq4-
 ### Machine Hacking :
 
                                 Try Hack Me :
@@ -91,7 +96,7 @@
                              https://academy.hackthebox.com/module/details/21
                              https://academy.hackthebox.com/module/details/27
 
-
+                    YouTube :https://www.youtube.com/watch?v=XHctBZRn2gU&list=PL60oESahDerpod7zBwlXrqdp_E7eYV98Q
 
 
 ### You Tube :      
